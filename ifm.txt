@@ -1,0 +1,1 @@
+http://vod.itvfm.co.kr:1935/live/aod1/playlist.m3u8
